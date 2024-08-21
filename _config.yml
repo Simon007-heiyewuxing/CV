@@ -22,11 +22,11 @@ repository               : "Simon007-heiyewuxing/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Simon Weinstein"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Red Brick University"
+  employer         : "Xidian University"
   uri              : # URL
   email            : "none@example.org" 
 
